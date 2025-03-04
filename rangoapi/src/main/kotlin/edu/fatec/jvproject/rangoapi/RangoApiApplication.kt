@@ -4,8 +4,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class RangoapiApplication
+class RangoApiApplication
 
 fun main(args: Array<String>) {
-    runApplication<RangoapiApplication>(*args)
+    runApplication<RangoApiApplication>(*args)
 }
